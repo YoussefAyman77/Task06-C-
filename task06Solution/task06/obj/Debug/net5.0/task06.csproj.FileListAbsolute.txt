@@ -1,0 +1,15 @@
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\bin\Debug\net5.0\task06.exe
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\bin\Debug\net5.0\task06.deps.json
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\bin\Debug\net5.0\task06.runtimeconfig.json
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\bin\Debug\net5.0\task06.runtimeconfig.dev.json
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\bin\Debug\net5.0\task06.dll
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\bin\Debug\net5.0\task06.pdb
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\obj\Debug\net5.0\task06.GeneratedMSBuildEditorConfig.editorconfig
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\obj\Debug\net5.0\task06.AssemblyInfoInputs.cache
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\obj\Debug\net5.0\task06.AssemblyInfo.cs
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\obj\Debug\net5.0\task06.csproj.CoreCompileInputs.cache
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\obj\Debug\net5.0\task06.dll
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\obj\Debug\net5.0\refint\task06.dll
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\obj\Debug\net5.0\task06.pdb
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\obj\Debug\net5.0\task06.genruntimeconfig.cache
+E:\#1 University\DEPI\C#\Day06\Assignment06\task06Solution\task06\obj\Debug\net5.0\ref\task06.dll

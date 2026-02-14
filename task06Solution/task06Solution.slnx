@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AMTypeTesting/AMTypeTesting.csproj" />
+  <Project Path="task06/task06.csproj" />
+</Solution>
